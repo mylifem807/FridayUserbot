@@ -160,8 +160,8 @@ fridaydevs.info(f"""{wsta}
 Friday-Userbot Based On Telethon V{tv}
 Python Version : {platform.python_version()}
 Friday-Userbot Version : V{friday_version}
-Support Chat : @FridayChat
-Updates Channel : @FridaySupportOfficial
+
+
 Total Clients : {total_clients}
 -------------------------------------------""")
         
